@@ -93,13 +93,5 @@ O projeto utiliza fórmulas nativas do Excel, como:
   - Validação de dados
   - Organização em abas funcionais
 
-- **GitHub**
-  - Versionamento do projeto
-  - Publicação da documentação
-
-- **Markdown**
-  - Criação do arquivo README.md
-
 ---
-
-## 📂 Estrutura do Repositório
+---
